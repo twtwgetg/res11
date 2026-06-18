@@ -34,6 +34,7 @@
 	"exmls": [
 		"resource/eui_skins/ActivityBtnModelSkin.exml",
 		"resource/eui_skins/Bag/BackpackSkin.exml",
+		"resource/eui_skins/Bag/BackpackSkin.exml.txt",
 		"resource/eui_skins/Bag/item_bag.exml",
 		"resource/eui_skins/Bag/ItemCanUseTips.exml",
 		"resource/eui_skins/Bag/ItemEquipTips.exml",
